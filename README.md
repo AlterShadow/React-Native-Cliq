@@ -47,6 +47,3 @@ https://youtu.be/CDdwa1N_NAg
     </td>
   </tr>
 </table>
-
-
-*This app has a lot of similarties with Tata Cliq App and sample data collected for educational purposes only.
